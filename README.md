@@ -3,4 +3,6 @@ This project is mainly focused on solving the problem of energy wastage through 
 room temperature and humidity 
 In many homes,offices,schools among other places temperature and humidity are not properly monitored 
 ![Simulation](temperature_sensor.PNG)
+The simulation of the project can be found here on Tinkercard [https://www.tinkercad.com/things/a5jEcTCLdLK-room-temperature-smart-sensor-by-joshua/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fcircuits]
+
 
